@@ -6,20 +6,25 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\Player_Spr</sprite>
-    <sprite>sprites\Wall_Spr</sprite>
+    <sprite>sprites\Concrete_Spr</sprite>
     <sprite>sprites\Door_Spr</sprite>
+    <sprite>sprites\Player_Spr</sprite>
+    <sprite>sprites\Rock_Spr</sprite>
+    <sprite>sprites\Wall_Spr</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\Player_Obj</object>
-    <object>objects\Wall_Obj</object>
+    <object>objects\Concrete_Obj</object>
     <object>objects\Door_Obj</object>
-    <object>objects\System_Obj</object>
+    <object>objects\Player_Obj</object>
+    <object>objects\Rock_Obj</object>
+    <object>objects\System1_Obj</object>
+    <object>objects\Wall_Obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
+    <room>rooms\room1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
