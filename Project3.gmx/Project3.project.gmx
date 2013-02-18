@@ -8,12 +8,15 @@
   <sprites name="sprites">
     <sprite>sprites\Player_Spr</sprite>
     <sprite>sprites\Wall_Spr</sprite>
+    <sprite>sprites\Door_Spr</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\Player_Obj</object>
     <object>objects\Wall_Obj</object>
+    <object>objects\Door_Obj</object>
+    <object>objects\System_Obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
