@@ -12,6 +12,9 @@
     <sprite>sprites\Rock_Spr</sprite>
     <sprite>sprites\Wall_Spr</sprite>
     <sprite>sprites\Car_Spr</sprite>
+    <sprite>sprites\CarObstacle_Spr</sprite>
+    <sprite>sprites\HealthBar_Spr</sprite>
+    <sprite>sprites\sprite8</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -21,13 +24,17 @@
     <object>objects\Player_Obj</object>
     <object>objects\Rock_Obj</object>
     <object>objects\System1_Obj</object>
+    <object>objects\System2_Obj</object>
     <object>objects\Wall_Obj</object>
     <object>objects\Score_Obj</object>
     <object>objects\Car_Obj</object>
+    <object>objects\CarObstacle_Obj</object>
+    <object>objects\HealthBar_Obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
     <room>rooms\room1</room>
+    <room>rooms\room2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
