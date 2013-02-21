@@ -75,7 +75,8 @@ jumped = 0;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>vspeed = 0;
+            <string>hspeed = 0;
+jumped = 0;
 </string>
           </argument>
         </arguments>
@@ -100,16 +101,17 @@ jumped = 0;
             <kind>1</kind>
             <string>if (jumped == 0)
 {
+    if(gravity_direction == 0)
+    {
+        gravity_direction = 180;
+    }
+    else if(gravity_direction == 180)
+    {
+        gravity_direction = 0;
+    }
     self.hspeed = -10;
     gravity = 1;
-    gravity_direction = 180;
-}
-if (jumped == 1)
-{
-    self.hspeed = 10;
-    gravity = 1;
-    gravity_direction = 0;
-    jumped = 0;
+    jumped = 1;
 }
 </string>
           </argument>
