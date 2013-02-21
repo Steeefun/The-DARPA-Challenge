@@ -53,6 +53,7 @@
 global.score2 = 0;
 global.score3 = 0;
 jumped = 0;
+has_item = 0;
 </string>
           </argument>
         </arguments>

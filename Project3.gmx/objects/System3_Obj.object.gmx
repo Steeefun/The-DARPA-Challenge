@@ -91,8 +91,9 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>LadderObsChoice = irandom_range(0,2);
+            <string>LadderObsChoice = irandom_range(0,3);
 LadderObsSpawnPos = (128*irandom_range(0,2))+128;
+PumpObsSpawnPos = irandom_range(0,1);
 if(LadderObsChoice == 0)
 {
     instance_create(128,0,ValveLeft_Obj);
@@ -100,6 +101,17 @@ if(LadderObsChoice == 0)
 else if(LadderObsChoice == 1)
 {
     instance_create(480,0,ValveRight_Obj);
+}
+else if(LadderObsChoice == 2)
+{
+    if(PumpObsSpawnPos == 0)
+    {
+        instance_create(128,0,ItemHole_Obj);
+    }
+    else
+    {
+        instance_create(480,0,ItemHole_Obj);
+    }
 }
 else
 {
