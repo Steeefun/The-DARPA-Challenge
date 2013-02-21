@@ -25,7 +25,14 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_text(380,120,"Score: " + string(global.score));
+            <string>if((room == room0) || (room == room1))
+{
+  draw_text(480,120,"Score: " + string(global.score));
+}
+else
+{
+  draw_text(256,120,"Score: " + string(global.score));
+}
 </string>
           </argument>
         </arguments>
