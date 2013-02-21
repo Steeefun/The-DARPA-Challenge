@@ -13,8 +13,7 @@
     <sprite>sprites\Wall_Spr</sprite>
     <sprite>sprites\Car_Spr</sprite>
     <sprite>sprites\CarObstacle_Spr</sprite>
-    <sprite>sprites\HealthBar_Spr</sprite>
-    <sprite>sprites\sprite8</sprite>
+    <sprite>sprites\Gas_Spr</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -29,6 +28,7 @@
     <object>objects\Score_Obj</object>
     <object>objects\Car_Obj</object>
     <object>objects\CarObstacle_Obj</object>
+    <object>objects\Gas_Obj</object>
     <object>objects\HealthBar_Obj</object>
   </objects>
   <rooms name="rooms">
