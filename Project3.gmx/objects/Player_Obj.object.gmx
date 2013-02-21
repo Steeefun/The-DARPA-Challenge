@@ -50,8 +50,6 @@
           <argument>
             <kind>1</kind>
             <string>global.score = 0;
-global.score2 = 0;
-global.score3 = 0;
 jumped = 1;
 </string>
           </argument>
