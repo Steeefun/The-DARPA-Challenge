@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_text(480,120,"Score: " + string(global.score));
+            <string>draw_text(380,120,"Score: " + string(global.score));
 </string>
           </argument>
         </arguments>

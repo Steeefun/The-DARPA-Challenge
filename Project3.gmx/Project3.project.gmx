@@ -14,6 +14,9 @@
     <sprite>sprites\Car_Spr</sprite>
     <sprite>sprites\CarObstacle_Spr</sprite>
     <sprite>sprites\Gas_Spr</sprite>
+    <sprite>sprites\Valve_Spr</sprite>
+    <sprite>sprites\ValveRight_Spr</sprite>
+    <sprite>sprites\Collect_Spr</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -32,6 +35,9 @@
     <object>objects\CarObstacle_Obj</object>
     <object>objects\Gas_Obj</object>
     <object>objects\HealthBar_Obj</object>
+    <object>objects\ValveLeft_Obj</object>
+    <object>objects\ValveRight_Obj</object>
+    <object>objects\Collect_Obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room2</room>
