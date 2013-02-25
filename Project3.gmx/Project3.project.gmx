@@ -8,42 +8,47 @@
     <sound>sound\music</sound>
   </sounds>
   <sprites name="sprites">
-    <sprite>sprites\Concrete_Spr</sprite>
-    <sprite>sprites\Door_Spr</sprite>
-    <sprite>sprites\Player_Spr</sprite>
-    <sprite>sprites\Rock_Spr</sprite>
-    <sprite>sprites\Wall_Spr</sprite>
     <sprite>sprites\Car_Spr</sprite>
     <sprite>sprites\CarObstacle_Spr</sprite>
+    <sprite>sprites\Collect_Spr</sprite>
+    <sprite>sprites\Concrete_Spr</sprite>
+    <sprite>sprites\Door_Spr</sprite>
     <sprite>sprites\Gas_Spr</sprite>
+    <sprite>sprites\ItemHole_Spr</sprite>
+    <sprite>sprites\LadderLeft_Spr</sprite>
+    <sprite>sprites\LadderPlayer_Spr</sprite>
+    <sprite>sprites\LadderRight_Spr</sprite>
+    <sprite>sprites\PlayAgain_Spr</sprite>
+    <sprite>sprites\Player_Spr</sprite>
+    <sprite>sprites\Rock_Spr</sprite>
     <sprite>sprites\Valve_Spr</sprite>
     <sprite>sprites\ValveRight_Spr</sprite>
-    <sprite>sprites\Collect_Spr</sprite>
-    <sprite>sprites\ItemHole_Spr</sprite>
-    <sprite>sprites\PlayAgain_Spr</sprite>
+    <sprite>sprites\Wall_Spr</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
+    <object>objects\Car_Obj</object>
+    <object>objects\CarObstacle_Obj</object>
+    <object>objects\Collect_Obj</object>
     <object>objects\Concrete_Obj</object>
     <object>objects\Door_Obj</object>
-    <object>objects\Player_Obj</object>
+    <object>objects\Gas_Obj</object>
+    <object>objects\HealthBar_Obj</object>
+    <object>objects\ItemHole_Obj</object>
+    <object>objects\LadderLeft_Obj</object>
     <object>objects\LadderPlayer_Obj</object>
+    <object>objects\LadderRight_Obj</object>
+    <object>objects\PlayAgain_Obj</object>
+    <object>objects\Player_Obj</object>
     <object>objects\Rock_Obj</object>
+    <object>objects\Score_Obj</object>
     <object>objects\System1_Obj</object>
     <object>objects\System2_Obj</object>
     <object>objects\System3_Obj</object>
-    <object>objects\Wall_Obj</object>
-    <object>objects\Score_Obj</object>
-    <object>objects\Car_Obj</object>
-    <object>objects\CarObstacle_Obj</object>
-    <object>objects\Gas_Obj</object>
-    <object>objects\HealthBar_Obj</object>
     <object>objects\ValveLeft_Obj</object>
     <object>objects\ValveRight_Obj</object>
-    <object>objects\Collect_Obj</object>
-    <object>objects\ItemHole_Obj</object>
-    <object>objects\PlayAgain_Obj</object>
+    <object>objects\Wall_Obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

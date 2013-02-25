@@ -80,7 +80,7 @@
     <instance objName="Wall_Obj" x="608" y="384" name="inst_3E6C1745" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_Obj" x="608" y="416" name="inst_BCD3C27D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_Obj" x="608" y="448" name="inst_58C8DDC9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="LadderPlayer_Obj" x="416" y="384" name="inst_E551D9EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderPlayer_Obj" x="448" y="352" name="inst_E551D9EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_Obj" x="32" y="448" name="inst_9599AA52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_Obj" x="32" y="416" name="inst_BE0DA048" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_Obj" x="32" y="384" name="inst_0DADAFA7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -173,6 +173,36 @@
     <instance objName="Wall_Obj" x="544" y="448" name="inst_95EBDB4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wall_Obj" x="512" y="448" name="inst_AFEC14FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Score_Obj" x="320" y="-32" name="inst_FC11244E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="0" name="inst_0123DCB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="32" name="inst_171856D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="64" name="inst_1244C87B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="96" name="inst_64527633" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="128" name="inst_68AADBCA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="160" name="inst_2645297A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="448" name="inst_A1ED87C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="416" name="inst_C173FAAE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="256" name="inst_9CD9D717" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="288" name="inst_1C8F38E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="320" name="inst_F9248C1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="352" name="inst_9537ED81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="384" name="inst_D96A085B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="192" name="inst_2BAD33E1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderRight_Obj" x="480" y="224" name="inst_DB52F352" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="0" name="inst_43CEB7A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="32" name="inst_6BCDF870" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="64" name="inst_691B7199" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="96" name="inst_A523AA90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="128" name="inst_FC90DC5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="160" name="inst_37C9D0E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="192" name="inst_4481F737" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="224" name="inst_753FC2EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="256" name="inst_7F0A6708" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="288" name="inst_75772345" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="320" name="inst_57E6B2C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="352" name="inst_690265EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="384" name="inst_3DDB5483" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="416" name="inst_8E49DA74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="LadderLeft_Obj" x="128" y="448" name="inst_4F16B7C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
