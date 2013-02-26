@@ -103,13 +103,14 @@ jumped = 0;
     {
         image_xscale = 1;
         gravity_direction = 0;
+        self.hspeed = 5;
     }
     else if(gravity_direction == 0)
     {
         image_xscale = -1;
         gravity_direction = 180;
+        self.hspeed = -5;
     }
-        self.hspeed = -10;
         gravity = 1;
         jumped = 1;
 }
