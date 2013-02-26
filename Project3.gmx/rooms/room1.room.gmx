@@ -114,6 +114,8 @@
     <instance objName="System2_Obj" x="0" y="-32" name="inst_783529A9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Score_Obj" x="32" y="-32" name="inst_76EFDD56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="HealthBar_Obj" x="16" y="256" name="inst_B01176A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Left_Obj" x="128" y="0" name="inst_07180A0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Right_Obj" x="480" y="0" name="inst_96673B54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

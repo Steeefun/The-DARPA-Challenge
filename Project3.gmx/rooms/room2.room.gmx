@@ -203,6 +203,9 @@
     <instance objName="LadderLeft_Obj" x="128" y="384" name="inst_3DDB5483" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="LadderLeft_Obj" x="128" y="416" name="inst_8E49DA74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="LadderLeft_Obj" x="128" y="448" name="inst_4F16B7C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Left_Obj" x="32" y="32" name="inst_3037C9B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Right_Obj" x="64" y="32" name="inst_E31037D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="SpaceIInst_Obj" x="64" y="96" name="inst_F40D69FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
