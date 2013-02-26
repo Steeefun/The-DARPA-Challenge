@@ -185,7 +185,8 @@ vspeed = 0;
     global.score++;
     with(Door_Obj)
     {
-        instance_destroy();
+        instance_change(DoorAnim_Obj,0);
+        
     }
 }
 

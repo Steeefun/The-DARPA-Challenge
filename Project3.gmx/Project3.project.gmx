@@ -35,6 +35,7 @@
     <sprite>sprites\Up_Spr</sprite>
     <sprite>sprites\Left_Spr</sprite>
     <sprite>sprites\Right_Spr</sprite>
+    <sprite>sprites\DoorAnim_Spr</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Start_Bg</background>
@@ -70,6 +71,7 @@
     <object>objects\Up_obj</object>
     <object>objects\Left_Obj</object>
     <object>objects\Right_Obj</object>
+    <object>objects\DoorAnim_Obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Start</room>
