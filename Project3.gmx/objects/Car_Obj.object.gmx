@@ -27,6 +27,7 @@
             <kind>1</kind>
             <string>if(self.x &lt;= 448)
 {
+    sound_play(Jump_Snd);
     self.x+= 128;
 }
 </string>
@@ -53,6 +54,7 @@
             <kind>1</kind>
             <string>if(self.x &gt;= 192)
 {
+    sound_play(Jump_Snd);
     self.x-= 128;
 }
 </string>

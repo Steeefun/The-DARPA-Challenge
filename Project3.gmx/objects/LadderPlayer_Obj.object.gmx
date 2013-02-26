@@ -101,12 +101,14 @@ jumped = 0;
 {
     if(gravity_direction == 180)
     {
+        sound_play(Jump_Snd);
         image_xscale = 1;
         gravity_direction = 0;
         self.hspeed = 5;
     }
     else if(gravity_direction == 0)
     {
+        sound_play(Jump_Snd);
         image_xscale = -1;
         gravity_direction = 180;
         self.hspeed = -5;

@@ -62,8 +62,13 @@
           <argument>
             <kind>1</kind>
             <string>if LadderPlayer_Obj.has_item == 1{
+    sound_play(YesCollect_Snd);
     global.score+= 2;
     LadderPlayer_Obj.has_item = 0;
+}
+else
+{
+    sound_play(NoCollect_Snd);
 }
 </string>
           </argument>

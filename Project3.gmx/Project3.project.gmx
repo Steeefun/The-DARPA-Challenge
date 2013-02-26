@@ -6,6 +6,13 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\music</sound>
+    <sound>sound\NextLevel_Snd</sound>
+    <sound>sound\DoorOpen_Snd</sound>
+    <sound>sound\Collision_snd</sound>
+    <sound>sound\Collect_Snd</sound>
+    <sound>sound\YesCollect_Snd</sound>
+    <sound>sound\NoCollect_Snd</sound>
+    <sound>sound\Jump_Snd</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\Car_Spr</sprite>
