@@ -17,39 +17,45 @@
   <sprites name="sprites">
     <sprite>sprites\Car_Spr</sprite>
     <sprite>sprites\CarObstacle_Spr</sprite>
+    <sprite>sprites\Cloud_Spr</sprite>
     <sprite>sprites\Collect_Spr</sprite>
     <sprite>sprites\Concrete_Spr</sprite>
     <sprite>sprites\Door_Spr</sprite>
+    <sprite>sprites\DoorAnim_Spr</sprite>
     <sprite>sprites\Gas_Spr</sprite>
     <sprite>sprites\ItemHole_Spr</sprite>
     <sprite>sprites\LadderLeft_Spr</sprite>
     <sprite>sprites\LadderPlayer_Spr</sprite>
     <sprite>sprites\LadderRight_Spr</sprite>
+    <sprite>sprites\Left_Spr</sprite>
     <sprite>sprites\PlayAgain_Spr</sprite>
     <sprite>sprites\Player_Spr</sprite>
+    <sprite>sprites\Right_Spr</sprite>
     <sprite>sprites\Rock_Spr</sprite>
+    <sprite>sprites\Space_Spr</sprite>
+    <sprite>sprites\Start_Spr</sprite>
+    <sprite>sprites\Up_Spr</sprite>
     <sprite>sprites\Valve_Spr</sprite>
     <sprite>sprites\ValveRight_Spr</sprite>
     <sprite>sprites\Wall_Spr</sprite>
-    <sprite>sprites\Start_Spr</sprite>
-    <sprite>sprites\Up_Spr</sprite>
-    <sprite>sprites\Left_Spr</sprite>
-    <sprite>sprites\Right_Spr</sprite>
-    <sprite>sprites\DoorAnim_Spr</sprite>
-    <sprite>sprites\Space_Spr</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Start_Bg</background>
     <background>background\End_Bg</background>
+    <background>background\Level1_Bg</background>
+    <background>background\Level2_Bg</background>
+    <background>background\Level3_Bg</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\Car_Obj</object>
     <object>objects\CarObstacle_Obj</object>
+    <object>objects\Cloud_Obj</object>
     <object>objects\Collect_Obj</object>
     <object>objects\Concrete_Obj</object>
     <object>objects\ConcreteIns_Obj</object>
     <object>objects\Door_Obj</object>
+    <object>objects\DoorAnim_Obj</object>
     <object>objects\DoorIns_Obj</object>
     <object>objects\Gas_Obj</object>
     <object>objects\HealthBar_Obj</object>
@@ -57,23 +63,22 @@
     <object>objects\LadderLeft_Obj</object>
     <object>objects\LadderPlayer_Obj</object>
     <object>objects\LadderRight_Obj</object>
+    <object>objects\Left_Obj</object>
     <object>objects\PlayAgain_Obj</object>
     <object>objects\Player_Obj</object>
+    <object>objects\Right_Obj</object>
     <object>objects\Rock_Obj</object>
     <object>objects\RockIns_Obj</object>
     <object>objects\Score_Obj</object>
+    <object>objects\SpaceIInst_Obj</object>
+    <object>objects\Start_Obj</object>
     <object>objects\System1_Obj</object>
     <object>objects\System2_Obj</object>
     <object>objects\System3_Obj</object>
+    <object>objects\Up_obj</object>
     <object>objects\ValveLeft_Obj</object>
     <object>objects\ValveRight_Obj</object>
     <object>objects\Wall_Obj</object>
-    <object>objects\Start_Obj</object>
-    <object>objects\Up_obj</object>
-    <object>objects\Left_Obj</object>
-    <object>objects\Right_Obj</object>
-    <object>objects\DoorAnim_Obj</object>
-    <object>objects\SpaceIInst_Obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Start</room>
